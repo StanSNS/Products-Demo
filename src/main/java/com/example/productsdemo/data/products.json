@@ -1,0 +1,191 @@
+[
+  {
+    "imageURL": "https://images-cdn.ubuy.co.in/634d031dba8fe623b47893cc-smart-phone-android-8-1-smartphone-hd.jpg",
+    "name": "Smartphone",
+    "description": "A high-performance smartphone with advanced features.",
+    "price": 599.99,
+    "quantity": 50
+  },
+  {
+    "imageURL": "https://i.pcmag.com/imagery/reviews/04jlYF4fsF2M5cejiU8lw7G-2.fit_lim.size_840x473.v1685028816.jpg",
+    "name": "Laptop",
+    "description": "A sleek and powerful laptop for work and entertainment.",
+    "price": 999.99,
+    "quantity": 30
+  },
+  {
+    "imageURL": "https://m.media-amazon.com/images/I/61-g7m+90eL.jpg",
+    "name": "Wireless Headphones",
+    "description": "Premium wireless headphones with noise cancellation technology.",
+    "price": 199.99,
+    "quantity": 100
+  },
+  {
+    "imageURL": "https://shopmobile.bg/image/cache/catalog/Xiaomi%20Haylou%20Smart%20Watch%20RT3,%20%D0%92%D0%BE%D0%B4%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2,%201.43%E2%80%B3%20AMOLED%20touchscreen,%202.5D%20Curved%20Glass,%20Bluetooth%20%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8,%20%D0%A1%D0%B8%D0%B2/eng_pl_Haylou-Smart-Watch-RT3-Silver-27444_1-500x500.jpg",
+    "name": "Smart Watch",
+    "description": "A smartwatch with fitness tracking, heart rate monitoring, and more.",
+    "price": 149.99,
+    "quantity": 80
+  },
+  {
+    "imageURL": "https://m.media-amazon.com/images/I/713TUYjagQL._AC_SL1500_.jpg",
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with 360-degree sound.",
+    "price": 79.99,
+    "quantity": 120
+  },
+  {
+    "imageURL": "https://i.pcmag.com/imagery/roundups/018cwxjHcVMwiaDIpTnZJ8H-22..v1570842461.jpg",
+    "name": "Digital Camera",
+    "description": "A compact digital camera with high-resolution imaging.",
+    "price": 449.99,
+    "quantity": 60
+  },
+  {
+    "imageURL": "https://cdn.thewirecutter.com/wp-content/media/2023/11/gamingconsoles-2048px-00633.jpg",
+    "name": "Gaming Console",
+    "description": "Next-generation gaming console with immersive gaming experiences.",
+    "price": 499.99,
+    "quantity": 40
+  },
+  {
+    "imageURL": "https://en.teclast.com/cdn/shop/files/T60.jpg?v=1697545031",
+    "name": "Tablet",
+    "description": "A versatile tablet for work, entertainment, and creativity.",
+    "price": 349.99,
+    "quantity": 70
+  },
+  {
+    "imageURL": "https://m.media-amazon.com/images/I/61dV494jBgL._AC_UF1000,1000_QL80_.jpg",
+    "name": "Fitness Tracker",
+    "description": "Fitness tracker with activity monitoring and GPS tracking.",
+    "price": 129.99,
+    "quantity": 90
+  },
+  {
+    "imageURL": "https://media.wired.com/photos/6504b2a1afe02332db973557/master/w_960,c_limit/Ugreen_Power_Bank-SOURCE-Ugreen-Gear.jpg",
+    "name": "Portable Charger",
+    "description": "High-capacity portable charger for charging devices on the go.",
+    "price": 39.99,
+    "quantity": 150
+  },
+  {
+    "imageURL": "https://i.ebayimg.com/images/g/S2kAAOSwCP5hDenz/s-l1200.jpg",
+    "name": "Wireless Keyboard and Mouse Combo",
+    "description": "A reliable wireless keyboard and mouse set for seamless computing.",
+    "price": 49.99,
+    "quantity": 80
+  },
+  {
+    "imageURL": "https://i.ebayimg.com/images/g/tr8AAOSwUF9lipms/s-l400.jpg",
+    "name": "External Hard Drive",
+    "description": "High-capacity external hard drive for secure storage and backup.",
+    "price": 129.99,
+    "quantity": 60
+  },
+  {
+    "imageURL": "https://m.media-amazon.com/images/I/71WugnqSwxL._AC_UF894,1000_QL80_DpWeblab_.jpg",
+    "name": "Home Security Camera System",
+    "description": "A comprehensive home security camera system for peace of mind.",
+    "price": 199.99,
+    "quantity": 40
+  },
+  {
+    "imageURL": "https://images.ctfassets.net/2tdscsybkbx7/3Ri5e4t5ZITpZexU9fw2mJ/5351cce6b28db02284df5e8d3f59c45d/2022_Q3_CHARGINGBULL_DTC_Beauty_Black_2700x2700_V4__1_.jpg",
+    "name": "Electric Toothbrush",
+    "description": "Advanced electric toothbrush with multiple cleaning modes.",
+    "price": 79.99,
+    "quantity": 100
+  },
+  {
+    "imageURL": "https://cdn.mos.cms.futurecdn.net/Ek2kyrb7BqbAZXepGvvVYL.jpg",
+    "name": "Smart Thermostat",
+    "description": "Programmable smart thermostat for energy-efficient heating and cooling.",
+    "price": 149.99,
+    "quantity": 70
+  },
+  {
+    "imageURL": "https://assets.epicurious.com/photos/62741684ef40ea9d3866a0be/3:2/w_4998,h_3332,c_limit/breville-bambino-espresso-maker_HERO_050422_8449_VOG_Badge_final.jpg",
+    "name": "Coffee Maker",
+    "description": "Automatic coffee maker for brewing delicious coffee at home.",
+    "price": 89.99,
+    "quantity": 90
+  },
+  {
+    "imageURL": "https://media.wired.com/photos/641d0fc298e1501546f52c83/1:1/w_1430,h_1430,c_limit/How-to-Get-the-Most-Out-of-(or-Into)-Your-Robot-Vacuum-Gear-GettyImages-1314495818.jpg",
+    "name": "Robot Vacuum Cleaner",
+    "description": "Intelligent robot vacuum cleaner for effortless cleaning.",
+    "price": 299.99,
+    "quantity": 50
+  },
+  {
+    "imageURL": "https://m.media-amazon.com/images/I/61XUdIeut0L.jpg",
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds with high-fidelity audio and long battery life.",
+    "price": 149.99,
+    "quantity": 120
+  },
+  {
+    "imageURL": "https://m.media-amazon.com/images/I/61OWyR-89rL._AC_UF1000,1000_QL80_.jpg",
+    "name": "Portable Projector",
+    "description": "Compact portable projector for enjoying movies and presentations anywhere.",
+    "price": 199.99,
+    "quantity": 80
+  },
+  {
+    "imageURL": "https://ee.co.uk/content/dam/everything-everywhere/images/SHOP/ATP/Amazon%20Smart%20Home%20Starter%20Pack-16x9.jpg",
+    "name": "Smart Home Starter Kit",
+    "description": "Starter kit for building a smart home with connected devices.",
+    "price": 299.99,
+    "quantity": 60
+  },
+  {
+    "imageURL": "https://res.cloudinary.com/sharp-consumer-eu/image/fetch/w_700,f_auto,q_auto/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/7e53c8d8-a340-11ed-b395-661a068f657e.jpg",
+    "name": "Electric Scooter",
+    "description": "Foldable electric scooter for convenient urban commuting.",
+    "price": 399.99,
+    "quantity": 30
+  },
+  {
+    "imageURL": "https://m.media-amazon.com/images/I/51YD0CM1PnL.jpg",
+    "name": "Wireless Charging Pad",
+    "description": "Qi-compatible wireless charging pad for smartphones and other devices.",
+    "price": 29.99,
+    "quantity": 100
+  },
+  {
+    "imageURL": "https://m.media-amazon.com/images/I/61GMdn+GbXL.jpg",
+    "name": "Smart Home Security System",
+    "description": "Comprehensive smart home security system with cameras, sensors, and alarms.",
+    "price": 499.99,
+    "quantity": 20
+  },
+  {
+    "imageURL": "https://i5.walmartimages.com/seo/Double-DIN-Car-Stereo-Radio-7-HD-MP5-Player-Digital-Display-Touch-Screen-Bluetooth-4-2-Radio-Bluetooth-4-LED-Rearview-Camera_97b249dd-d46e-423f-8ed3-fb76fce1fe17.4fbd6befb318ef849c0f2f509ae6b8f3.jpeg",
+    "name": "Bluetooth Car Stereo",
+    "description": "Bluetooth-enabled car stereo system for hands-free calling and music streaming.",
+    "price": 149.99,
+    "quantity": 50
+  },
+  {
+    "imageURL": "https://m.media-amazon.com/images/I/71RbMh+2PWL._AC_UF1000,1000_QL80_.jpg",
+    "name": "Wireless Charging Stand",
+    "description": "Stylish wireless charging stand for smartphones with fast charging support.",
+    "price": 39.99,
+    "quantity": 80
+  },
+  {
+    "imageURL": "https://wiproconsumerlighting.com/sites/default/files/Wipro_Doorbell_MC_01022023_01.jpg",
+    "name": "Smart Doorbell",
+    "description": "Wi-Fi-enabled smart doorbell with HD camera and motion detection.",
+    "price": 199.99,
+    "quantity": 40
+  },
+  {
+    "imageURL": "https://pcbuild.bg/assets/products/000/000/285/000000285414--geimarska-mishka-razer-basilisk-v3-pro-ergonomic-wireless-gaming-mouse-rz01-04620100-r3g1.jpg",
+    "name": "Gaming Mouse",
+    "description": "High-performance gaming mouse with customizable RGB lighting.",
+    "price": 59.99,
+    "quantity": 60
+  }
+]
