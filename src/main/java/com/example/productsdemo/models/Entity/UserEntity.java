@@ -1,6 +1,6 @@
-package com.example.productsdemo.Entity;
+package com.example.productsdemo.models.Entity;
 
-import com.example.productsdemo.Entity.BaseEntity.BaseEntity;
+import com.example.productsdemo.models.Entity.BaseEntity.BaseEntity;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;

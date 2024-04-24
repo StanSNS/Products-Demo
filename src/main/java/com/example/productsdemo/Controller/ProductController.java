@@ -1,7 +1,6 @@
 package com.example.productsdemo.Controller;
 
-import com.example.productsdemo.Entity.ProductEntity;
-import com.example.productsdemo.Entity.UserEntity;
+import com.example.productsdemo.models.Entity.ProductEntity;
 import com.example.productsdemo.Repository.ProductEntityRepo;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

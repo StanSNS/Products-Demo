@@ -1,6 +1,6 @@
 package com.example.productsdemo.Controller;
 
-import com.example.productsdemo.Entity.UserEntity;
+import com.example.productsdemo.models.Entity.UserEntity;
 import com.example.productsdemo.Repository.UserEntityRepo;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
@@ -14,7 +14,7 @@ import static com.example.productsdemo.Consts.Globals.IS_USER_LOGGED;
 @RequiredArgsConstructor
 @CrossOrigin(origins = GLOBAL_FRONTEND_URL)
 @RequestMapping("/auth")
-public class UserController {
+public class AuthController {
 
     private final UserEntityRepo userEntityRepo;
 

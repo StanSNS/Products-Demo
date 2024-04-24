@@ -1,4 +1,4 @@
-package com.example.productsdemo.Entity.BaseEntity;
+package com.example.productsdemo.models.Entity.BaseEntity;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

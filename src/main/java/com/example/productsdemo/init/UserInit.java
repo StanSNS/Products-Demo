@@ -1,6 +1,6 @@
 package com.example.productsdemo.init;
 
-import com.example.productsdemo.Entity.UserEntity;
+import com.example.productsdemo.models.Entity.UserEntity;
 import com.example.productsdemo.Repository.UserEntityRepo;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;

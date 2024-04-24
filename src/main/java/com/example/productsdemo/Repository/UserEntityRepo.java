@@ -1,6 +1,6 @@
 package com.example.productsdemo.Repository;
 
-import com.example.productsdemo.Entity.UserEntity;
+import com.example.productsdemo.models.Entity.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
